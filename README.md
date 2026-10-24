@@ -87,14 +87,16 @@ EduPulse 360° demonstrates how interactive dashboards can help education instit
 ### 4. Placement Analytics
 ![Placement Analytics](Placement%20Analytics.png)
 
+### 5. Sales Analytics
+![Sales Analytics](Sales%20Analytics.png)
 
 ---
 
+
 ## 📁 Project Files
 
-- **Power BI Report (.pbix):** Contains the dashboards and business intelligence analysis.
-- **Excel Dataset (.xlsx):** Source data used for the analysis.
-- **Dashboard Screenshots:** Preview images of the five dashboard pages.
+- [Power BI Report (.pbix)](./EduPulse%20360.pbix)
+- [Excel Source Dataset (.xlsx)](./360_Education_Business_Analytics_Dataset.xlsx)
 
 ## 🛠️ Tools & Technologies
 
@@ -124,5 +126,3 @@ Aspiring Data Analyst | Power BI | Python | SQL | Excel
 ---
 
 
-### 5. Sales Analytics
-![Sales Analytics](Sales%20Analytics.png)
