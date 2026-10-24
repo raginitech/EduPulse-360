@@ -88,6 +88,28 @@ EduPulse 360° demonstrates how interactive dashboards can help education instit
 ![Placement Analytics](Placement%20Analytics.png)
 
 
+---
+
+## 📁 Project Files
+
+- **Power BI Report (.pbix):** Contains the dashboards and business intelligence analysis.
+- **Excel Dataset (.xlsx):** Source data used for the analysis.
+- **Dashboard Screenshots:** Preview images of the five dashboard pages.
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Visualization
+- KPI Reporting
+
+## 🎯 Project Objective
+
+To analyze education business data and present actionable insights into business performance, admissions, placements, revenue, and financial metrics through interactive Power BI dashboards.
+
+
 ## 👩‍💻 Author
 
 **Ragini Turde**
