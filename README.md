@@ -81,3 +81,23 @@ Aspiring Data Analyst | Power BI | Python | SQL | Excel
 ---
 
 *EduPulse 360° — Turning data into actionable business insights.*
+
+
+---
+
+## 📊 EduPulse 360° — Dashboard Previews
+
+### 1. Executive Overview
+![Executive Overview](360%20analytics.png)
+
+### 2. Business Analytics
+![Business Analytics](Business%20Analytics.png)
+
+### 3. Financial Analytics
+![Financial Analytics](Financial%20Analytics.png)
+
+### 4. Placement Analytics
+![Placement Analytics](Placement%20Analytics.png)
+
+### 5. Sales Analytics
+![Sales Analytics](Sales%20Analytics.png)
