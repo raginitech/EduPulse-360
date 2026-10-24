@@ -72,18 +72,6 @@ EduPulse 360° demonstrates how interactive dashboards can help education instit
 - Business-focused dashboard design
 - Performance monitoring through data visualization
 
-## 👩‍💻 Author
-
-**Ragini Turde**
-
-Aspiring Data Analyst | Power BI | Python | SQL | Excel
-
----
-
-*EduPulse 360° — Turning data into actionable business insights.*
-
-
----
 
 ## 📊 EduPulse 360° — Dashboard Previews
 
@@ -98,6 +86,21 @@ Aspiring Data Analyst | Power BI | Python | SQL | Excel
 
 ### 4. Placement Analytics
 ![Placement Analytics](Placement%20Analytics.png)
+
+
+## 👩‍💻 Author
+
+**Ragini Turde**
+
+Aspiring Data Analyst | Power BI | Python | SQL | Excel
+
+---
+
+*EduPulse 360° — Turning data into actionable business insights.*
+
+
+---
+
 
 ### 5. Sales Analytics
 ![Sales Analytics](Sales%20Analytics.png)
